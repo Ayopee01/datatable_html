@@ -1,0 +1,56 @@
+/*universal selector*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*universal selector*/
+
+/*body*/
+body {
+    display: flex;
+    max-width: 100%;
+    margin: 0px;
+    font-family: "Noto Sans Thai", serif;
+    background-color: rgb(255 255 255);
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: hidden;
+    align-items: center;
+    padding: 20px;
+}
+
+/*body*/
+
+/*table styling*/
+#myData {
+    border-collapse: collapse;
+    width: 80%;
+    max-width: 800px;
+    margin-top: 20px;
+}
+
+#myData th, #myData td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#myData th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+#myData tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#myData tr:hover {
+    background-color: #f1f1f1;
+}
+
+/*table styling*/

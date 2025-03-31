@@ -1,0 +1,42 @@
+[
+    {
+      "employee_id": 1,
+      "employee_title": "Amelia Margaret",
+      "department_name": "Human Resource"
+    },
+    {
+      "employee_id": 2,
+      "employee_title": "Olivia Samantha",
+      "department_name": "Human Resource"
+    },
+    {
+      "employee_id": 3,
+      "employee_title": "Bethany Sophia",
+      "department_name": "Finance"
+    },
+    {
+      "employee_id": 4,
+      "employee_title": "Emily Elizabeth",
+      "department_name": "Finance"
+    },
+    {
+      "employee_id": 5,
+      "employee_title": "Jessica Lauren",
+      "department_name": "Accounting"
+    },
+    {
+      "employee_id": 6,
+      "employee_title": "Smith Murphy",
+      "department_name": "Information Technology"
+    },
+    {
+      "employee_id": 7,
+      "employee_title": "Thomas O'Connor",
+      "department_name": "Information Technology"
+    },
+    {
+      "employee_id": 8,
+      "employee_title": "Lam Williams",
+      "department_name": "Accounting"
+    }
+  ]
